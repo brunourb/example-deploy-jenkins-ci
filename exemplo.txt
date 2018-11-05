@@ -1,1 +1,7 @@
 Exemplo commit
+
+Exemplo de alteração do arquivo
+1
+2
+3.
+4.
